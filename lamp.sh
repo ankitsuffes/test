@@ -43,3 +43,4 @@
    
  # Restart Apache  
  sudo service apache2 restart  
+# sudo  apt upgrade
